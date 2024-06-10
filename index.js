@@ -20,7 +20,7 @@ inquirer.prompt([
         type: 'list',
         name: 'shape',
         message: 'What shape for the logo would you like to use?',
-        choices: ['circle', 'triangle', 'square']
+        choices: ['Circle', 'Triangle', 'Square']
     },
     {   // choosing the color of the shape
         type: 'input',
