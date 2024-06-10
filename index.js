@@ -27,4 +27,7 @@ inquirer.prompt([
         name: 'shapeColor',
         message: 'Enter the color you would like to use for the logo shape?'
     }
-])
+    //Calling generateLogo function. Using answers as object to bring in user inputs.
+]).then(answers => {
+    generateLogo(answers.text, answers.textColor, answers.shape, answers.shapeColor);
+});
