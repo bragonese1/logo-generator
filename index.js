@@ -7,7 +7,7 @@ const generateLogo = require('./lib/generateLogo');
 inquirer.prompt([
     {  // 3 character logo text input
         type: 'input',
-        name: 'name',
+        name: 'text',
         message: 'Enter the logo text you would like to use? (3 Characters Max)',
         validate: input => input.length <= 3 ? true : `Text must be 3 characters or less`
     },
