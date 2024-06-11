@@ -1,0 +1,4 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle r="75" cx="150" cy="115" fill="Black" /> <!-- LOGO SHAPE -->
+    <text x="150" y="135" font-size="60" text-anchor="middle" fill="RED">BJR</text> <!-- TEXT for LOGO-->
+</svg>

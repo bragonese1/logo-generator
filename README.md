@@ -20,8 +20,11 @@ The installation of inquirer 8.2.4 and jest are necessary to run this applicatio
 ## Usage
 This can be used to create a logo directly from the command line. Once the questions pertaining to the logo are answered a SVG file will be created of the users logo.
 
-## Links
+![Logo_Generator](examples/Logo_GIF.gif)
 
+## Links
+* [Github Repo](https://github.com/bragonese1/logo-generator)
+* [Google Drive Video](https://drive.google.com/file/d/1lcSH0NK2ONoKbq-GQTCus8TT1PeDWn2M/view)
 
 ## Contributions
 W3 schools helped contribute to use of the SVG string parameters. If any contributions would like to be made, please fork my repo and submit any changes through a request.
