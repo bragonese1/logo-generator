@@ -34,5 +34,5 @@ Run npm test, after installing jest.
 
 ## Questions
 - Contact Me for Questions:
-[GitHub](https://github.com/bragonese1)|
+[GitHub](https://github.com/bragonese1) |
 [Email](mailto:ragonesebradley@gmail.com)
